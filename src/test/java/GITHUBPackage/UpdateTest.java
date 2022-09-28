@@ -7,12 +7,14 @@ public class UpdateTest {
 	public void update()
 	{
 		System.out.println("---updated---");
+
 	}
 	@Test
 	public void delete()
 	{
 		System.out.println("---deleted---");
 		System.out.println("---deleted---");
+
 	}
 	
 }

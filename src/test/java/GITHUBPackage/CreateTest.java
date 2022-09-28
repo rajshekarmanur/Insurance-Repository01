@@ -7,7 +7,8 @@ public class CreateTest {
 	public void create()
 	{
 		System.out.println("---created---");
-		//System.out.println("---modify---");
+		System.out.println("---modified---");
+		//System.out.println("---modify---")
 	}
 	
 	
